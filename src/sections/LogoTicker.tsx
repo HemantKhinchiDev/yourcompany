@@ -1,10 +1,10 @@
 'use client';
-import acmeLogo from '@/assets/logo-acme.png';
-import quanttumLogo from '@/assets/logo-quantum.png';
-import echoLogo from '@/assets/logo-echo.png';
-import celestialLogo from '@/assets/logo-celestial.png';
-import pilseLogo from '@/assets/logo-pulse.png';
-import apexLogo from '@/assets/logo-apex.png';
+import acmeLogo from '@/assets/logo-acme.webp';
+import quanttumLogo from '@/assets/logo-quantum.webp';
+import echoLogo from '@/assets/logo-echo.webp';
+import celestialLogo from '@/assets/logo-celestial.webp';
+import pilseLogo from '@/assets/logo-pulse.webp';
+import apexLogo from '@/assets/logo-apex.webp';
 import Image from 'next/image';
 import {motion,} from"framer-motion";
 export const LogoTicker = () => {

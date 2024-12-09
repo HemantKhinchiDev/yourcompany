@@ -1,6 +1,6 @@
 import ArrowRight from '@/assets/arrow-right.svg';
 import MenuIcon from '@/assets/menu.svg';
-import Logo from'@/assets/logosaas.png';
+import Logo from'@/assets/logosaas.webp';
 import Image from 'next/image';
 export const Header = () => {
   return (
